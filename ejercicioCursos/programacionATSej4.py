@@ -5,7 +5,7 @@ for letter in user_word:
     if letter == "A":
      continue
     elif letter == "E":
-     continue# Completa el cuerpo del bucle for.
+     continue.
     elif letter == "I":
      continue
     elif letter == "O":
