@@ -1,0 +1,7 @@
+Producto 				|Ventas por día|				 		|Cantidad por dia|  
+				Lunes	 Martes	 Miercoles	 Jueves
+Pan Ciabatta:	 50			30		 20		   10						110
+Pie de limón:	 40		    25		 15		   8						88 
+Cafe:			 60			35		 25		   12						132
+Te:				 45			28		 18		   9						100
+Alfajór:		 55		    32		 22		   11						120
